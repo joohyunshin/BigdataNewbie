@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>
-	Oh YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!  asdasdasdasd
+	Hello world!  
 </h1>
 
 <P>  "앙금모띠!" </P>
